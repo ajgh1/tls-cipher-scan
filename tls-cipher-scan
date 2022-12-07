@@ -1,6 +1,6 @@
-#!/usr/bin/env bash
+#! bash
 
-# Version:  0.01_4311
+# Version:  1.004921
 # NOTE:  Make sure the "openssl" binary is in your $PATH
 
 server="$1"
